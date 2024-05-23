@@ -1,0 +1,855 @@
+buying_date,sku_name,buying_price
+15-08-2023,Banana Robusta,25
+15-08-2023,Ladies Finger - Okra/Bhindi,40
+15-08-2023,Spring Onion,33
+15-08-2023,Palak,15
+15-08-2023,Baby Corn Peeled - Packet,80
+15-08-2023,Pomegranate,130
+15-08-2023,Lemon Yellow,87
+15-08-2023,Carrot Local,39
+15-08-2023,Beans Haricot,44
+15-08-2023,Muskmelon,32
+15-08-2023,Chow Chow,10
+15-08-2023,Lettuce Romaine,40
+15-08-2023,Broccoli,50
+15-08-2023,Capsicum Green - Big,39
+15-08-2023,Knol Khol,12
+15-08-2023,Celery,45
+15-08-2023,Beans White,40
+15-08-2023,Kiwi (Box),130
+15-08-2023,Cucumber Sambar/Mangalore,16
+15-08-2023,Chilli Small Spicy (Akash Chilli ),48
+15-08-2023,Banana Leaf,3
+15-08-2023,Amaranth Red,42
+15-08-2023,Carrot Local - Medium,16
+15-08-2023,Zucchini Yellow - Medium,60
+15-08-2023,Gongura Soppu,45
+15-08-2023,Sweet Potato,31
+15-08-2023,Lemon Green ( Lime ),88
+15-08-2023,Lettuce Iceberg,40
+15-08-2023,Lemongrass,45
+15-08-2023,Asparagus,120
+15-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",16
+15-08-2023,Onion Sambar Peeled (Kg),65
+15-08-2023,Green Apple,225
+15-08-2023,Avocado (Butter fruit ),285
+15-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+15-08-2023,Methi (Fenugreek ),25
+15-08-2023,Ginger,95
+15-08-2023,Cherry Tomato,50
+15-08-2023,Apple,180
+15-08-2023,Coriander Hybrid,20
+15-08-2023,Watermelon Kiran,75
+15-08-2023,Figs (Box),50
+15-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",60
+15-08-2023,Lettuce Green,35
+15-08-2023,Basil Leaves,50
+15-08-2023,Bok Choy (Pok Choy ),30
+15-08-2023,Tomato Hybrid,28
+15-08-2023,Lettuce Red,45
+15-08-2023,Pineapple,49
+15-08-2023,Dill leaves,37
+15-08-2023,Cauliflower (600-900gm/pc),14
+15-08-2023,Amaranth Green,30
+15-08-2023,Coconut,20
+15-08-2023,Zucchini Green - Medium,55
+15-08-2023,Chilli Long Green,40
+15-08-2023,Beetroot,26
+15-08-2023,Garlic Peeled,521
+15-08-2023,Chinese Cabbage,40
+15-08-2023,Orange Imported,200
+15-08-2023,Mushroom Button,32
+15-08-2023,Papaya Ripe,28
+15-08-2023,Cabbage Local - Big,17
+15-08-2023,Orange Kinnow,45
+15-08-2023,Mint Leaves (Pudhina ),20
+15-08-2023,Cucumber Indian - Medium,16
+15-08-2023,curry leaves,40
+15-08-2023,Leeks,50
+15-08-2023,Garlic Whole,300
+15-08-2023,Rocket Lettuce - Arugula,55
+15-08-2023,"Cucumber Indian (Big, misshapes)",6
+14-08-2023,Chilli Long Green,42
+14-08-2023,Coconut,20
+14-08-2023,Rocket Lettuce - Arugula,55
+14-08-2023,Capsicum Red - Big,120
+14-08-2023,Garlic Whole,290
+14-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",62
+14-08-2023,Mint Leaves (Pudhina ),20
+14-08-2023,Ladies Finger - Okra/Bhindi,39
+14-08-2023,Cucumber English,18
+14-08-2023,Orange Kinnow,45
+14-08-2023,Basil Leaves,50
+14-08-2023,Beetroot,25
+14-08-2023,Methi (Fenugreek ),25
+14-08-2023,Capsicum Yellow - Big,120
+14-08-2023,Raw Mango,149
+14-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",75
+14-08-2023,Capsicum Green - Big,38
+14-08-2023,Red Radish,85
+14-08-2023,Yam,55
+14-08-2023,Pineapple,49
+14-08-2023,Lotus Stem (Kamal Kakdi),200
+14-08-2023,Apple,180
+14-08-2023,Ginger,95
+14-08-2023,Kiwi (Box),146
+14-08-2023,Lettuce Iceberg,35
+14-08-2023,Lemon Green ( Lime ),86
+14-08-2023,Beans White,30
+14-08-2023,Bottle Gourd (Lauki ) - Medium,18
+14-08-2023,Chinese Cabbage,40
+14-08-2023,Avocado (Butter fruit ),285
+14-08-2023,Carrot Local - Medium,14
+14-08-2023,Green Apple,225
+14-08-2023,Coriander Hybrid,20
+14-08-2023,Papaya Raw,22
+14-08-2023,Orange Imported,200
+14-08-2023,Radish White,10
+14-08-2023,Papaya Ripe,28
+14-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+14-08-2023,curry leaves,40
+14-08-2023,Chilli Small Spicy (Akash Chilli ),48
+14-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",16
+14-08-2023,Bajji Chilli,32
+14-08-2023,Lettuce Romaine,40
+14-08-2023,Bok Choy (Pok Choy ),30
+14-08-2023,Banana Leaf,3
+14-08-2023,Onion Sambar Peeled (Kg),65
+14-08-2023,Amaranth Green,30
+14-08-2023,Cucumber Indian - Medium,15
+14-08-2023,Beans Haricot,46
+14-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+14-08-2023,Onion,19
+14-08-2023,Cherry Tomato,50
+14-08-2023,Knol Khol,12
+14-08-2023,Palak,17
+14-08-2023,Brinjal Long Green,34
+14-08-2023,Red Chilli,85
+14-08-2023,Garlic Peeled,525
+14-08-2023,"Potato - (Medium, 17-20 pcs/kg)",16
+14-08-2023,"Cucumber Indian (Big, misshapes)",5
+14-08-2023,Snake Gourd (Kg),16
+14-08-2023,Cabbage Local - Big,14
+14-08-2023,Banana Robusta,25
+14-08-2023,Dill leaves,38
+14-08-2023,Carrot Local,35
+14-08-2023,Cauliflower (600-900gm/pc),12
+14-08-2023,Chow Chow,10
+14-08-2023,Drumstick,110
+14-08-2023,Cabbage Local - Medium,7
+14-08-2023,Mushroom Button,30
+14-08-2023,Tomato Hybrid,28
+14-08-2023,Spring Onion,34
+14-08-2023,Baby Corn Peeled - Packet,80
+14-08-2023,Broccoli,50
+14-08-2023,"Bottle Gourd (Lauki) - Big, patches",7
+14-08-2023,Lemon Yellow,89
+14-08-2023,Asparagus,120
+14-08-2023,Muskmelon,32
+14-08-2023,Parsley,60
+14-08-2023,Banana Raw,38
+14-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",6
+14-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",75
+14-08-2023,Onion - Medium,16
+14-08-2023,Bitter Gourd (Karela ),29
+13-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+13-08-2023,Beans Haricot,30
+13-08-2023,Tomato Hybrid,28
+13-08-2023,Basil Leaves,50
+13-08-2023,Pumpkin White (Ash Gourd) (Kg),19
+13-08-2023,Red Chilli,110
+13-08-2023,Asparagus,120
+13-08-2023,Onion,18
+13-08-2023,Figs (Box),50
+13-08-2023,Cabbage Local - Big,13
+13-08-2023,Capsicum Green - Big,35
+13-08-2023,Radish White,9
+13-08-2023,Baby Corn Peeled - Packet,80
+13-08-2023,Bitter Gourd (Karela ),26
+13-08-2023,Coriander Hybrid,20
+13-08-2023,Ginger,95
+13-08-2023,Garlic Peeled,511
+13-08-2023,Dill leaves,35
+13-08-2023,Gongura Soppu,45
+13-08-2023,Lemon Yellow,90
+13-08-2023,Orange Kinnow,45
+13-08-2023,Mushroom Button,32
+13-08-2023,Lemon Green ( Lime ),88
+13-08-2023,Yam,55
+13-08-2023,Ladies Finger - Okra/Bhindi,39
+13-08-2023,"Zucchini Yellow - Big, misshape",30
+13-08-2023,Cabbage Local - Medium,6
+13-08-2023,Celery,45
+13-08-2023,Chilli Long Green,40
+13-08-2023,Papaya Ripe,28
+13-08-2023,Pear,245
+13-08-2023,Rosemary,400
+13-08-2023,Lemongrass,45
+13-08-2023,Carrot Local - Medium,14
+13-08-2023,Onion Sambar Peeled (Kg),65
+13-08-2023,Beetroot,25
+13-08-2023,Banana Robusta,27
+13-08-2023,curry leaves,40
+13-08-2023,Broccoli,60
+13-08-2023,Apple,163
+13-08-2023,Spring Onion,36
+13-08-2023,Lettuce Iceberg,40
+13-08-2023,"Zucchini Green - Big, misshape",29
+13-08-2023,Parsley,60
+13-08-2023,Pumpkin Red (Kadoo) (Pc),66
+13-08-2023,Mint Leaves (Pudhina ),20
+13-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+13-08-2023,Pumpkin White (Ash Gourd) (Pc),60
+13-08-2023,Cucumber Indian - Medium,14
+13-08-2023,Zucchini Yellow - Medium,60
+13-08-2023,Orange Imported,220
+13-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",14
+13-08-2023,Zucchini Green - Medium,55
+13-08-2023,Banana Leaf,3
+13-08-2023,Bok Choy (Pok Choy ),30
+13-08-2023,Drumstick,110
+13-08-2023,"Cucumber Indian (Big, misshapes)",5
+13-08-2023,Ridge Gourd,23
+13-08-2023,Chilli Small Spicy (Akash Chilli ),47
+13-08-2023,Muskmelon,33
+13-08-2023,Amaranth Red,42
+13-08-2023,Avocado (Butter fruit ),290
+13-08-2023,Carrot Local,35
+13-08-2023,"Ridge Gourd (Farm, Misshape)",8
+13-08-2023,Methi (Fenugreek ),27
+13-08-2023,Brinjal Long Green,32
+13-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",65
+13-08-2023,Leeks,50
+13-08-2023,Cherry Tomato,50
+13-08-2023,Watermelon Kiran,75
+13-08-2023,Amaranth Green,30
+13-08-2023,Pineapple,54
+13-08-2023,Cauliflower (600-900gm/pc),10
+13-08-2023,Rocket Lettuce - Arugula,55
+13-08-2023,Palak,15
+13-08-2023,Sweet Potato,35
+12-08-2023,Orange Imported,225
+12-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",14
+12-08-2023,Banana Leaf,3
+12-08-2023,Mint Leaves (Pudhina ),20
+12-08-2023,Cucumber English,17
+12-08-2023,Apple,170
+12-08-2023,Lettuce Romaine,40
+12-08-2023,Amaranth Red,46
+12-08-2023,Chilli Small Spicy (Akash Chilli ),48
+12-08-2023,Beans Haricot,28
+12-08-2023,Onion Sambar Peeled (Kg),65
+12-08-2023,Avocado (Butter fruit ),290
+12-08-2023,Garlic Peeled,512
+12-08-2023,Pineapple,54
+12-08-2023,Yam,60
+12-08-2023,Amaranth Green,34
+12-08-2023,Capsicum Green - Big,33
+12-08-2023,Chilli Long Green,38
+12-08-2023,Thyme,180
+12-08-2023,Watermelon Kiran,75
+12-08-2023,Tomato Hybrid,30
+12-08-2023,Capsicum Red - Big,140
+12-08-2023,Papaya Ripe,35
+12-08-2023,"Bottle Gourd (Lauki) - Big, patches",6
+12-08-2023,Banana Robusta,25
+12-08-2023,Coriander Hybrid,20
+12-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+12-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",80
+12-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",60
+12-08-2023,Asparagus,120
+12-08-2023,Methi (Fenugreek ),38
+12-08-2023,Dill leaves,35
+12-08-2023,Red Radish,88
+12-08-2023,Bok Choy (Pok Choy ),30
+12-08-2023,Beetroot,26
+12-08-2023,Palak,15
+12-08-2023,Lettuce Green,35
+12-08-2023,Coconut,21
+12-08-2023,Radish White,10
+12-08-2023,Basil Leaves,50
+12-08-2023,Chinese Cabbage,40
+12-08-2023,Carrot Local - Medium,14
+12-08-2023,Lettuce Iceberg,40
+12-08-2023,Cherry Tomato,50
+12-08-2023,Carrot Local,35
+12-08-2023,Sweet Potato,60
+12-08-2023,Pumpkin Red (Kadoo) (Pc),66
+12-08-2023,Mushroom Button,33
+12-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+12-08-2023,Baby Corn Peeled - Packet,80
+12-08-2023,Lemon Green ( Lime ),88
+12-08-2023,Capsicum Yellow - Big,140
+12-08-2023,Red Chilli,60
+12-08-2023,Leeks,50
+12-08-2023,Brinjal Small - Purple Stripes (Varikatri ),10
+12-08-2023,Broccoli,60
+12-08-2023,Lemon Yellow,89
+12-08-2023,Cabbage Local - Big,12
+12-08-2023,Rocket Lettuce - Arugula,55
+12-08-2023,"Zucchini Green - Big, misshape",30
+12-08-2023,Lettuce Red,45
+12-08-2023,Parsley,60
+12-08-2023,Orange Kinnow,45
+12-08-2023,Celery,45
+12-08-2023,Cabbage Red,50
+12-08-2023,Garlic Whole,320
+12-08-2023,Cabbage Local - Medium,5
+12-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",80
+12-08-2023,Coccinia (Ivy Gourd ),19
+12-08-2023,Cauliflower (600-900gm/pc),10
+12-08-2023,Pomegranate,130
+12-08-2023,Muskmelon,33
+12-08-2023,Beans Long - Cowpea (Karamani ),26
+12-08-2023,Spring Onion,34
+12-08-2023,curry leaves,40
+11-08-2023,Lemon Yellow,85
+11-08-2023,Cucumber English,16
+11-08-2023,Garlic Peeled,480
+11-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",110
+11-08-2023,Capsicum Yellow - Big,170
+11-08-2023,Cherry Tomato,50
+11-08-2023,Basil Leaves,50
+11-08-2023,Carrot Local,34
+11-08-2023,Tomato Hybrid,30
+11-08-2023,Dill leaves,40
+11-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",110
+11-08-2023,Watermelon Kiran,75
+11-08-2023,Lotus Stem (Kamal Kakdi),200
+11-08-2023,Beans Haricot,30
+11-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+11-08-2023,Lettuce Green,35
+11-08-2023,Amaranth Green,34
+11-08-2023,Bajji Chilli,32
+11-08-2023,"Cucumber Indian (Big, misshapes)",4
+11-08-2023,Parsley,60
+11-08-2023,Muskmelon,33
+11-08-2023,Raw Mango,168
+11-08-2023,Spring Onion,33
+11-08-2023,Bottle Gourd (Lauki ) - Medium,17
+11-08-2023,Coriander Hybrid,20
+11-08-2023,Asparagus,120
+11-08-2023,Chilli Small Spicy (Akash Chilli ),48
+11-08-2023,Orange Imported,225
+11-08-2023,Radish White,10
+11-08-2023,Apple,170
+11-08-2023,Onion - Medium,16
+11-08-2023,Capsicum Green - Big,33
+11-08-2023,Mint Leaves (Pudhina ),20
+11-08-2023,Methi (Fenugreek ),34
+11-08-2023,Lemon Green ( Lime ),81
+11-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",51
+11-08-2023,Onion Sambar Peeled (Kg),65
+11-08-2023,Bok Choy (Pok Choy ),30
+11-08-2023,"Potato - (Medium, 17-20 pcs/kg)",15
+11-08-2023,Papaya Ripe,28
+11-08-2023,Onion,19
+11-08-2023,Mushroom Button,31
+11-08-2023,Cauliflower (600-900gm/pc),10
+11-08-2023,Baby Corn Peeled - Packet,80
+11-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",14
+11-08-2023,Garlic Whole,350
+11-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+11-08-2023,Ladies Finger - Okra/Bhindi,35
+11-08-2023,Cabbage Local - Big,12
+11-08-2023,Carrot Local - Medium,14
+11-08-2023,Gongura Soppu,40
+11-08-2023,Chinese Cabbage,40
+11-08-2023,Cabbage Local - Medium,5
+11-08-2023,Cucumber Indian - Medium,13
+11-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+11-08-2023,Broccoli,60
+11-08-2023,Avocado (Butter fruit ),290
+11-08-2023,Capsicum Red - Big,170
+11-08-2023,Yam,60
+11-08-2023,Bitter Gourd (Karela ),28
+11-08-2023,Zucchini Yellow - Medium,60
+11-08-2023,Palak,15
+11-08-2023,Banana Leaf,3
+11-08-2023,American Sweet Corn,11
+11-08-2023,Ginger,95
+11-08-2023,Celery,45
+11-08-2023,curry leaves,40
+11-08-2023,Pineapple,54
+11-08-2023,Thyme,180
+11-08-2023,Orange Kinnow,45
+11-08-2023,Zucchini Green - Medium,55
+10-08-2023,Yam,60
+10-08-2023,Beetroot,24
+10-08-2023,Broccoli,60
+10-08-2023,Cucumber English,16
+10-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",120
+10-08-2023,Parsley,60
+10-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+10-08-2023,Carrot Local,32
+10-08-2023,Leeks,50
+10-08-2023,Bottle Gourd (Lauki ) - Medium,17
+10-08-2023,Cherry Tomato,50
+10-08-2023,Sweet Potato,60
+10-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+10-08-2023,Knol Khol,12
+10-08-2023,Methi (Fenugreek ),35
+10-08-2023,Galangal (Thai Ginger),230
+10-08-2023,Cucumber Indian - Medium,15
+10-08-2023,Garlic Peeled,480
+10-08-2023,Ladies Finger - Okra/Bhindi,37
+10-08-2023,Capsicum Green - Big,32
+10-08-2023,Celery,45
+10-08-2023,Orange Kinnow,45
+10-08-2023,Lettuce Iceberg,35
+10-08-2023,Beans Haricot,29
+10-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",60
+10-08-2023,"Zucchini Green - Big, misshape",30
+10-08-2023,Baby Corn Peeled - Packet,80
+10-08-2023,Avocado (Butter fruit ),290
+10-08-2023,Amaranth Green,30
+10-08-2023,Ginger,95
+10-08-2023,Cabbage Local - Big,12
+10-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",120
+10-08-2023,Papaya Ripe,28
+10-08-2023,Mint Leaves (Pudhina ),20
+10-08-2023,Basil Leaves,50
+10-08-2023,Potato,24
+10-08-2023,Bitter Gourd (Karela ),27
+10-08-2023,Ridge Gourd,21
+10-08-2023,Lemongrass,45
+10-08-2023,Pineapple,54
+10-08-2023,curry leaves,40
+10-08-2023,Radish White,10
+10-08-2023,Lemon Green ( Lime ),85
+10-08-2023,Spring Onion,34
+10-08-2023,Cabbage Local - Medium,5
+10-08-2023,Watermelon Kiran,75
+10-08-2023,Lemon Yellow,85
+10-08-2023,Cauliflower (600-900gm/pc),10
+10-08-2023,Beans White,30
+10-08-2023,Onion Sambar Peeled (Kg),65
+10-08-2023,Pumpkin Red (Kadoo) (Pc),65
+10-08-2023,Chilli Small Spicy (Akash Chilli ),49
+10-08-2023,Rocket Lettuce - Arugula,55
+10-08-2023,"Zucchini Yellow - Big, misshape",29
+10-08-2023,Coriander Hybrid,20
+10-08-2023,Chow Chow,11
+10-08-2023,Mushroom Button,32
+10-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+10-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",13
+10-08-2023,"Ridge Gourd (Farm, Misshape)",7
+10-08-2023,Bajji Chilli,32
+10-08-2023,Palak,15
+10-08-2023,Red Chilli,55
+10-08-2023,Carrot Local - Medium,13
+10-08-2023,"Potato - (Medium, 17-20 pcs/kg)",14
+10-08-2023,Red Radish,88
+10-08-2023,Potato-Chips/Fries,24
+10-08-2023,Apple,170
+10-08-2023,"Cucumber Indian (Big, misshapes)",5
+10-08-2023,Capsicum Red - Big,180
+10-08-2023,Lotus Stem (Kamal Kakdi),201
+10-08-2023,Coconut,20
+10-08-2023,Garlic Whole,350
+10-08-2023,Capsicum Yellow - Big,180
+10-08-2023,Orange Imported,225
+10-08-2023,Muskmelon,33
+10-08-2023,Banana Robusta,25
+10-08-2023,Banana Leaf,3
+09-08-2023,Pineapple,54
+09-08-2023,Coriander Hybrid,20
+09-08-2023,Papaya Ripe,28
+09-08-2023,Ginger,95
+09-08-2023,Pomegranate,130
+09-08-2023,Yam,60
+09-08-2023,Beans White,30
+09-08-2023,Coconut,22
+09-08-2023,Beans Haricot,25
+09-08-2023,Chinese Cabbage,40
+09-08-2023,Amaranth Red,45
+09-08-2023,American Sweet Corn,11
+09-08-2023,Lemongrass,45
+09-08-2023,Lettuce Green,35
+09-08-2023,Cabbage Local - Medium,5
+09-08-2023,Chow Chow,10
+09-08-2023,Figs (Box),50
+09-08-2023,Radish White,10
+09-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+09-08-2023,Arbi (Colocasia ),67
+09-08-2023,Capsicum Green - Big,32
+09-08-2023,Lettuce Red,45
+09-08-2023,Bottle Gourd (Lauki ) - Medium,17
+09-08-2023,Muskmelon,33
+09-08-2023,Amaranth Green,33
+09-08-2023,Carrot Local,32
+09-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",182
+09-08-2023,Cabbage Local - Big,11
+09-08-2023,"Ridge Gourd (Farm, Misshape)",8
+09-08-2023,Onion - Medium,17
+09-08-2023,Lemon Green ( Lime ),81
+09-08-2023,Lettuce Iceberg,40
+09-08-2023,Asparagus,120
+09-08-2023,Snake Gourd (Kg),16
+09-08-2023,Beans Long - Cowpea (Karamani ),35
+09-08-2023,Capsicum Yellow - Big,260
+09-08-2023,Apple,170
+09-08-2023,Orange Imported,225
+09-08-2023,Chilli Small Spicy (Akash Chilli ),50
+09-08-2023,Broccoli,60
+09-08-2023,Cauliflower (600-900gm/pc),10
+09-08-2023,"Bottle Gourd (Lauki) - Big, patches",6
+09-08-2023,Garlic Whole,320
+09-08-2023,Mint Leaves (Pudhina ),20
+09-08-2023,Beetroot,24
+09-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",13
+09-08-2023,Methi (Fenugreek ),33
+09-08-2023,Capsicum Red - Big,260
+09-08-2023,Bok Choy (Pok Choy ),30
+09-08-2023,Baby Corn Peeled - Packet,80
+09-08-2023,Red Radish,88
+09-08-2023,Tomato Hybrid,28
+09-08-2023,Drumstick,110
+09-08-2023,Cabbage Red,50
+09-08-2023,Spring Onion,34
+09-08-2023,Ridge Gourd,21
+09-08-2023,Cucumber Indian - Medium,15
+09-08-2023,curry leaves,40
+09-08-2023,Lettuce Romaine,40
+09-08-2023,Cherry Tomato,50
+09-08-2023,Leeks,50
+09-08-2023,Celery,45
+09-08-2023,Dill leaves,38
+09-08-2023,Orange Kinnow,45
+09-08-2023,Onion Sambar Peeled (Kg),65
+09-08-2023,Chilli Long Green,42
+09-08-2023,Onion,21
+09-08-2023,Bajji Chilli,32
+09-08-2023,Watermelon Kiran,75
+09-08-2023,Lemon Yellow,87
+09-08-2023,Banana Robusta,25
+09-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",60
+09-08-2023,Carrot Local - Medium,13
+09-08-2023,Palak,15
+09-08-2023,Banana Raw,38
+09-08-2023,Raw Mango,177
+09-08-2023,Sweet Potato,60
+09-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",185
+09-08-2023,Ladies Finger - Okra/Bhindi,39
+09-08-2023,Bitter Gourd (Karela ),27
+09-08-2023,Parsley,60
+09-08-2023,Rocket Lettuce - Arugula,55
+09-08-2023,Cucumber English,15
+09-08-2023,Banana Leaf,3
+09-08-2023,Mushroom Button,33
+09-08-2023,Brinjal Small - Purple Stripes (Varikatri ),10
+09-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",17
+09-08-2023,Basil Leaves,50
+09-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+08-08-2023,Ridge Gourd,21
+08-08-2023,Red Chilli,60
+08-08-2023,Chilli Small Spicy (Akash Chilli ),50
+08-08-2023,Pineapple,54
+08-08-2023,Bok Choy (Pok Choy ),30
+08-08-2023,Bitter Gourd (Karela ),27
+08-08-2023,Coriander Hybrid,20
+08-08-2023,Papaya Raw,30
+08-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",195
+08-08-2023,Avocado (Butter fruit ),290
+08-08-2023,Spring Onion,34
+08-08-2023,"Ridge Gourd (Farm, Misshape)",8
+08-08-2023,Chinese Cabbage,40
+08-08-2023,Parsley,60
+08-08-2023,Tomato Local (Nati),23
+08-08-2023,Garlic Whole,320
+08-08-2023,Coconut,20
+08-08-2023,Broccoli,60
+08-08-2023,Apple,170
+08-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+08-08-2023,Carrot Local - Medium,12
+08-08-2023,Zucchini Yellow - Medium,60
+08-08-2023,Muskmelon,33
+08-08-2023,Lettuce Romaine,40
+08-08-2023,Amaranth Green,30
+08-08-2023,Banana Robusta,32
+08-08-2023,Capsicum Yellow - Big,130
+08-08-2023,Palak,15
+08-08-2023,Watermelon Kiran,75
+08-08-2023,Cherry Tomato,50
+08-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",67
+08-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+08-08-2023,Cauliflower (600-900gm/pc),10
+08-08-2023,Mint Leaves (Pudhina ),20
+08-08-2023,Lemon Yellow,88
+08-08-2023,Basil Leaves,50
+08-08-2023,Rocket Lettuce - Arugula,55
+08-08-2023,Chilli Long Green,40
+08-08-2023,Lettuce Iceberg,40
+08-08-2023,Lemon Green ( Lime ),89
+08-08-2023,Onion Sambar Peeled (Kg),65
+08-08-2023,"Zucchini Yellow - Big, misshape",35
+08-08-2023,Beans White,30
+08-08-2023,Baby Corn Peeled - Packet,82
+08-08-2023,Orange Imported,225
+08-08-2023,Asparagus,120
+08-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),17
+08-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",12
+08-08-2023,Amaranth Red,45
+08-08-2023,Beans Haricot,21
+08-08-2023,Beans Long - Cowpea (Karamani ),35
+08-08-2023,Cabbage Local - Big,11
+08-08-2023,Banana Leaf,3
+08-08-2023,Methi (Fenugreek ),30
+08-08-2023,Drumstick,110
+08-08-2023,Dill leaves,30
+08-08-2023,Leeks,50
+08-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",195
+08-08-2023,Papaya Ripe,28
+08-08-2023,Cabbage Local - Medium,5
+08-08-2023,"Bottle Gourd (Lauki) - Big, patches",6
+08-08-2023,Mushroom Button,32
+08-08-2023,Bottle Gourd (Lauki ) - Medium,16
+08-08-2023,Brinjal Small - Purple Stripes (Varikatri ),10
+08-08-2023,Sweet Potato,60
+08-08-2023,Capsicum Green - Big,29
+08-08-2023,American Sweet Corn,11
+08-08-2023,curry leaves,40
+08-08-2023,Capsicum Red - Big,130
+08-08-2023,Green Apple,225
+08-08-2023,Orange Kinnow,52
+08-08-2023,Tomato Hybrid,30
+08-08-2023,Garlic Peeled,480
+08-08-2023,Carrot Local,29
+08-08-2023,Ginger,95
+07-08-2023,Lettuce Red,45
+07-08-2023,Bajji Chilli,31
+07-08-2023,Gongura Soppu,42
+07-08-2023,Snake Gourd (Kg),16
+07-08-2023,Coconut,20
+07-08-2023,Banana Raw,38
+07-08-2023,Yam,55
+07-08-2023,Watermelon Kiran,73
+07-08-2023,Lemon Green ( Lime ),84
+07-08-2023,Bottle Gourd (Lauki ) - Medium,16
+07-08-2023,Cabbage Local - Big,10
+07-08-2023,Apple,170
+07-08-2023,Muskmelon,33
+07-08-2023,Mushroom Button,32
+07-08-2023,Pineapple,54
+07-08-2023,Coriander Hybrid,20
+07-08-2023,Carrot Local - Medium,12
+07-08-2023,Ladies Finger - Okra/Bhindi,40
+07-08-2023,Ginger,95
+07-08-2023,Bitter Gourd (Karela ),27
+07-08-2023,Rocket Lettuce - Arugula,55
+07-08-2023,Red Radish,88
+07-08-2023,Basil Leaves,50
+07-08-2023,Red Chilli,110
+07-08-2023,Ridge Gourd,20
+07-08-2023,Banana Robusta,25
+07-08-2023,Chilli Small Spicy (Akash Chilli ),46
+07-08-2023,Beans Haricot,25
+07-08-2023,Pumpkin White (Ash Gourd) (Pc),62
+07-08-2023,Garlic Peeled,449
+07-08-2023,Lettuce Romaine,40
+07-08-2023,Onion Sambar Peeled (Kg),65
+07-08-2023,"Zucchini Yellow - Big, misshape",35
+07-08-2023,Baby Corn Peeled - Packet,80
+07-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",4
+07-08-2023,"Zucchini Green - Big, misshape",30
+07-08-2023,Carrot Local,29
+07-08-2023,Baby Potato,22
+07-08-2023,"Potato - (Medium, 17-20 pcs/kg)",16
+07-08-2023,Avocado (Butter fruit ),290
+07-08-2023,Bok Choy (Pok Choy ),30
+07-08-2023,"Cucumber Indian (Big, misshapes)",5
+07-08-2023,Lettuce Iceberg,40
+07-08-2023,Figs (Box),50
+07-08-2023,Radish White,10
+07-08-2023,Cucumber English,14
+07-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",58
+07-08-2023,Methi (Fenugreek ),25
+07-08-2023,Galangal (Thai Ginger),230
+07-08-2023,Beetroot,25
+07-08-2023,Brinjal Small - Purple Stripes (Varikatri ),10
+07-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",12
+07-08-2023,Cucumber Indian - Medium,14
+07-08-2023,Cauliflower (600-900gm/pc),10
+07-08-2023,Celery,45
+07-08-2023,Onion - Medium,17
+07-08-2023,Amaranth Green,34
+07-08-2023,Cabbage Local - Medium,5
+07-08-2023,Chilli Long Green,40
+07-08-2023,Zucchini Green - Medium,55
+07-08-2023,Cherry Tomato,50
+07-08-2023,curry leaves,40
+07-08-2023,Broccoli,60
+07-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+07-08-2023,Tomato Hybrid,30
+07-08-2023,Coccinia (Ivy Gourd ),16
+07-08-2023,American Sweet Corn,11
+07-08-2023,Asparagus,120
+07-08-2023,Spring Onion,34
+07-08-2023,Parsley,60
+07-08-2023,Onion,20
+07-08-2023,Palak,15
+07-08-2023,Drumstick,110
+07-08-2023,Banana Leaf,3
+07-08-2023,Lemon Yellow,85
+07-08-2023,Beans Long - Cowpea (Karamani ),36
+07-08-2023,Mint Leaves (Pudhina ),20
+07-08-2023,Papaya Ripe,28
+07-08-2023,Orange Imported,223
+07-08-2023,Capsicum Green - Big,30
+07-08-2023,Lettuce Green,35
+07-08-2023,Lotus Stem (Kamal Kakdi),200
+07-08-2023,Chinese Cabbage,40
+07-08-2023,Pumpkin Red (Kadoo) (Pc),65
+07-08-2023,Dill leaves,35
+07-08-2023,Beans White,30
+06-08-2023,Beans Long - Cowpea (Karamani ),35
+06-08-2023,Ginger,94
+06-08-2023,American Sweet Corn,10
+06-08-2023,Coconut,20
+06-08-2023,Cabbage Local - Big,10
+06-08-2023,Leeks,50
+06-08-2023,Lettuce Green,35
+06-08-2023,Amaranth Red,45
+06-08-2023,Banana Robusta,25
+06-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",5
+06-08-2023,Banana Leaf,3
+06-08-2023,Brinjal Long Green,20
+06-08-2023,Baby Corn Peeled - Packet,80
+06-08-2023,Pumpkin Red (Kadoo) (Pc),62
+06-08-2023,Pineapple,50
+06-08-2023,Carrot Local - Medium,12
+06-08-2023,Coriander Hybrid,20
+06-08-2023,Carrot Local,29
+06-08-2023,Lemon Yellow,83
+06-08-2023,"Zucchini Yellow - Big, misshape",35
+06-08-2023,Banana Raw,38
+06-08-2023,Cauliflower (600-900gm/pc),11
+06-08-2023,Kiwi (Box),130
+06-08-2023,"Cucumber Indian (Big, misshapes)",13
+06-08-2023,Raw Mango,190
+06-08-2023,Mushroom Button,32
+06-08-2023,Methi (Fenugreek ),25
+06-08-2023,Pear,245
+06-08-2023,Orange Imported,225
+06-08-2023,Chow Chow,12
+06-08-2023,Avocado (Butter fruit ),290
+06-08-2023,Papaya Ripe,28
+06-08-2023,Cherry Tomato,50
+06-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",59
+06-08-2023,Amaranth Green,34
+06-08-2023,Radish White,13
+06-08-2023,Muskmelon,33
+06-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+06-08-2023,Palak,15
+06-08-2023,Celery,45
+06-08-2023,Beans White,30
+06-08-2023,Garlic Peeled,412
+06-08-2023,Spring Onion,34
+06-08-2023,Watermelon Kiran,75
+06-08-2023,Zucchini Yellow - Medium,60
+06-08-2023,curry leaves,40
+06-08-2023,Garlic Whole,340
+06-08-2023,Figs (Box),50
+06-08-2023,Bajji Chilli,31
+06-08-2023,Brinjal Small - Purple Stripes (Varikatri ),10
+06-08-2023,Lettuce Romaine,40
+06-08-2023,Mint Leaves (Pudhina ),20
+06-08-2023,Ladies Finger - Okra/Bhindi,39
+06-08-2023,Lemon Green ( Lime ),85
+06-08-2023,Capsicum Green - Big,29
+06-08-2023,Cabbage Local - Medium,5
+06-08-2023,Tomato Hybrid,30
+06-08-2023,Capsicum Red - Big,260
+06-08-2023,Broccoli,60
+06-08-2023,Gongura Soppu,36
+06-08-2023,Apple,170
+06-08-2023,"Zucchini Green - Big, misshape",30
+06-08-2023,Basil Leaves,50
+06-08-2023,Beans Haricot,22
+06-08-2023,Asparagus,120
+06-08-2023,"Capsicum Green (Medium, misshapes, irregular size)",12
+06-08-2023,Capsicum Yellow - Big,260
+06-08-2023,Parsley,60
+05-08-2023,Cucumber Indian - Medium,11
+05-08-2023,Banana Robusta,25
+05-08-2023,Pomegranate,130
+05-08-2023,Lemon Green ( Lime ),79
+05-08-2023,"Potato - (Medium, 17-20 pcs/kg)",16
+05-08-2023,Tomato Hybrid,30
+05-08-2023,Ridge Gourd,21
+05-08-2023,Chilli Long Green,40
+05-08-2023,Bok Choy (Pok Choy ),30
+05-08-2023,"Ridge Gourd (Farm, Misshape)",7
+05-08-2023,Basil Leaves,50
+05-08-2023,Lettuce Green,35
+05-08-2023,Cabbage Red,50
+05-08-2023,"Zucchini Green - Big, misshape",25
+05-08-2023,Dill leaves,40
+05-08-2023,"Zucchini Yellow - Big, misshape",25
+05-08-2023,Pineapple,50
+05-08-2023,Bitter Gourd (Karela ),27
+05-08-2023,Cherry Tomato,50
+05-08-2023,"Lemon (medium, spots, 25-40 pcs/kg)",60
+05-08-2023,Lettuce Romaine,40
+05-08-2023,Zucchini Green - Medium,55
+05-08-2023,Cauliflower (600-900gm/pc),11
+05-08-2023,"Cucumber Indian (Big, misshapes)",4
+05-08-2023,Ladies Finger - Okra/Bhindi,40
+05-08-2023,Radish White,13
+05-08-2023,Brinjal Big - Bottle Black (Bharta Baingan / Eggplant ),18
+05-08-2023,Avocado (Butter fruit ),290
+05-08-2023,Potato,24
+05-08-2023,"Capsicum Red (Medium, misshapes, irregular size)",84
+05-08-2023,Chow Chow,9
+05-08-2023,Carrot Local,28
+05-08-2023,Lettuce Iceberg,40
+05-08-2023,Garlic Peeled,450
+05-08-2023,Carrot Local - Medium,11
+05-08-2023,Onion,21
+05-08-2023,Rocket Lettuce - Arugula,55
+05-08-2023,Beetroot,25
+05-08-2023,Lemongrass,45
+05-08-2023,Coriander Hybrid,20
+05-08-2023,Banana Leaf,3
+05-08-2023,Mushroom Button,31
+05-08-2023,Leeks,50
+05-08-2023,Parsley,60
+05-08-2023,Celery,45
+05-08-2023,"Tomato Hybrid (Mix of medium, semi ripe 12-16 pcs/kg)",18
+05-08-2023,Broccoli,60
+05-08-2023,Capsicum Green - Big,29
+05-08-2023,curry leaves,40
+05-08-2023,Green Apple,220
+05-08-2023,Papaya Ripe,28
+05-08-2023,Muskmelon,33
+05-08-2023,Pumpkin Red (Kadoo) (Pc),65
+05-08-2023,Watermelon Kiran,78
+05-08-2023,Bottle Gourd (Lauki ) - Medium,14
+05-08-2023,Methi (Fenugreek ),35
+05-08-2023,Lettuce Red,45
+05-08-2023,Brinjal Small - Purple Stripes (Varikatri ),9
+05-08-2023,Ginger,95
+05-08-2023,Amaranth Green,40
+05-08-2023,Spring Onion,34
+05-08-2023,Potato-Chips/Fries,25
+05-08-2023,Onion Sambar Peeled (Kg),65
+05-08-2023,Cucumber English,15
+05-08-2023,Mint Leaves (Pudhina ),20
+05-08-2023,Asparagus,120
+05-08-2023,Garlic Whole,290
+05-08-2023,Orange Kinnow,52
+05-08-2023,"Capsicum Yellow (Medium, misshapes, irregular size)",195
+05-08-2023,Cabbage Local - Medium,5
+05-08-2023,Beans Haricot,23
+05-08-2023,Baby Corn Peeled - Packet,80
+05-08-2023,Figs (Box),50
+05-08-2023,Orange Imported,225
+05-08-2023,Coconut,21
+05-08-2023,Palak,15
+05-08-2023,Chinese Cabbage,40
+05-08-2023,Lemon Yellow,82
+05-08-2023,Beans White,30
+05-08-2023,Cabbage Local - Big,10
+05-08-2023,Chilli Small Spicy (Akash Chilli ),46
+05-08-2023,Apple,170
+05-08-2023,"Cauliflower (Medium, approx 300-500gm/pc)",5
